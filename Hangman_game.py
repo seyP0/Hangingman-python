@@ -1,6 +1,5 @@
-# Se Yeon Bark
 # Pygame Hangman
-# 14 Dec 2022
+
 
 import sys, pygame
 import random, math
